@@ -1,0 +1,119 @@
+{
+ "id": "mms-fa-int8-v1",
+ "bytes": 317327722,
+ "sha256": "403acc3bd481ade2dd220eda1405ea029c9e3c2ad0171abd40356c5d9760e2e5",
+ "parts": [
+  {
+   "name": "part-00.bin",
+   "bytes": 19922944,
+   "sha256": "b2f28eabbd7e93d87b34354e81b9f29e8e4c5e8b2e245441aa06359c8f3c9245",
+   "tag": "mms-fa-int8-v1-a",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-a/mms-fa-int8-v1/part-00.bin"
+  },
+  {
+   "name": "part-01.bin",
+   "bytes": 19922944,
+   "sha256": "f7ef4e9119eb8ad933ecfbf8e2e057cc6e56a3cb139382f28bf12b28365862b2",
+   "tag": "mms-fa-int8-v1-a",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-a/mms-fa-int8-v1/part-01.bin"
+  },
+  {
+   "name": "part-02.bin",
+   "bytes": 19922944,
+   "sha256": "e48d80d158fd5f0c169603ec1786bc2ea9744cd303667ee1a1313e79594cc949",
+   "tag": "mms-fa-int8-v1-a",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-a/mms-fa-int8-v1/part-02.bin"
+  },
+  {
+   "name": "part-03.bin",
+   "bytes": 19922944,
+   "sha256": "3ea3dc2ee11c40c6ff3e4b8f3fb6dc1c9579bb1c89a0a33e970ef91371b1a7a5",
+   "tag": "mms-fa-int8-v1-a",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-a/mms-fa-int8-v1/part-03.bin"
+  },
+  {
+   "name": "part-04.bin",
+   "bytes": 19922944,
+   "sha256": "5de667ce91d8009eaf897147d45c49845350196c2a02d9f73c70bf0962339068",
+   "tag": "mms-fa-int8-v1-a",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-a/mms-fa-int8-v1/part-04.bin"
+  },
+  {
+   "name": "part-05.bin",
+   "bytes": 19922944,
+   "sha256": "672a2744db3b2d035e3153f7eb72bbe0e6f824072148b32b976a7830db5aa68b",
+   "tag": "mms-fa-int8-v1-a",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-a/mms-fa-int8-v1/part-05.bin"
+  },
+  {
+   "name": "part-06.bin",
+   "bytes": 19922944,
+   "sha256": "966608ea7b4271771afb7a5f1d004884c9ddbdcaa1e86ce82cff6df17b1d2033",
+   "tag": "mms-fa-int8-v1-a",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-a/mms-fa-int8-v1/part-06.bin"
+  },
+  {
+   "name": "part-07.bin",
+   "bytes": 19922944,
+   "sha256": "0e10aaafb3bef07372fca6b5f204b8a839de20821faa0b01eee449a91bae3226",
+   "tag": "mms-fa-int8-v1-b",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-b/mms-fa-int8-v1/part-07.bin"
+  },
+  {
+   "name": "part-08.bin",
+   "bytes": 19922944,
+   "sha256": "bb6bc470f9ed825a824c21c4890bdf45bc29e43420fd544f892a45d9a18a094a",
+   "tag": "mms-fa-int8-v1-b",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-b/mms-fa-int8-v1/part-08.bin"
+  },
+  {
+   "name": "part-09.bin",
+   "bytes": 19922944,
+   "sha256": "92695406db44e91eae1d58203c01e310dc41f40a71b912ca2c08c314883f7efc",
+   "tag": "mms-fa-int8-v1-b",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-b/mms-fa-int8-v1/part-09.bin"
+  },
+  {
+   "name": "part-10.bin",
+   "bytes": 19922944,
+   "sha256": "b0a0b9af8ac7d73308724bdaaafa374e437a908c2cbe5844464ea5d0bd5dd0a2",
+   "tag": "mms-fa-int8-v1-b",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-b/mms-fa-int8-v1/part-10.bin"
+  },
+  {
+   "name": "part-11.bin",
+   "bytes": 19922944,
+   "sha256": "a88eb92cc204e8321508dc98a0e0d419b046a17427d309d7888199b15052fb23",
+   "tag": "mms-fa-int8-v1-b",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-b/mms-fa-int8-v1/part-11.bin"
+  },
+  {
+   "name": "part-12.bin",
+   "bytes": 19922944,
+   "sha256": "47145ba56e0ee4c5e42723e597308e01d511b2d1b3d6a03af6f237d952f6021a",
+   "tag": "mms-fa-int8-v1-b",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-b/mms-fa-int8-v1/part-12.bin"
+  },
+  {
+   "name": "part-13.bin",
+   "bytes": 19922944,
+   "sha256": "a46c2330bd80ae881786c81206fdc71915414bec60faeee1b2c95ca3fe6d8905",
+   "tag": "mms-fa-int8-v1-b",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-b/mms-fa-int8-v1/part-13.bin"
+  },
+  {
+   "name": "part-14.bin",
+   "bytes": 19922944,
+   "sha256": "c158bc9a41837951a2e0ea69a29735ff939cb3357a12d347294fd793244b6aff",
+   "tag": "mms-fa-int8-v1-c",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-c/mms-fa-int8-v1/part-14.bin"
+  },
+  {
+   "name": "part-15.bin",
+   "bytes": 18483562,
+   "sha256": "600216ff93fd15a69cef032e60f8b4cb2a0866326903347eefb89e087fa069c5",
+   "tag": "mms-fa-int8-v1-c",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@mms-fa-int8-v1-c/mms-fa-int8-v1/part-15.bin"
+  }
+ ]
+}

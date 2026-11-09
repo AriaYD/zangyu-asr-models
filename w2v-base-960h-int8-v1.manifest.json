@@ -1,0 +1,42 @@
+{
+ "id": "w2v-base-960h-int8-v1",
+ "bytes": 95286046,
+ "sha256": "cd5040c147381580ed73258143dd8e0c28e800a09e74ee42ee2b3e8cb4d760a3",
+ "parts": [
+  {
+   "name": "part-00.bin",
+   "bytes": 19922944,
+   "sha256": "8720f16e7ada2448948470cee18c333816815c747454c4271e77901637aa0d24",
+   "tag": "w2v-base-960h-int8-v1-a",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@w2v-base-960h-int8-v1-a/w2v-base-960h-int8-v1/part-00.bin"
+  },
+  {
+   "name": "part-01.bin",
+   "bytes": 19922944,
+   "sha256": "b0854d42240a6ba1ed5b9be3093648b82d87995b14b7f7d5cb0da018368789a2",
+   "tag": "w2v-base-960h-int8-v1-a",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@w2v-base-960h-int8-v1-a/w2v-base-960h-int8-v1/part-01.bin"
+  },
+  {
+   "name": "part-02.bin",
+   "bytes": 19922944,
+   "sha256": "2e4c99eb9c4c3cb93827c3c500ad65ad25382f3f30e037d9cf7a954fbf8d8cc5",
+   "tag": "w2v-base-960h-int8-v1-a",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@w2v-base-960h-int8-v1-a/w2v-base-960h-int8-v1/part-02.bin"
+  },
+  {
+   "name": "part-03.bin",
+   "bytes": 19922944,
+   "sha256": "6bfbaea3317b231ad4ea5f6c3516f3e1f5b7ecba4a3c28800f51657b6e8ef8c8",
+   "tag": "w2v-base-960h-int8-v1-a",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@w2v-base-960h-int8-v1-a/w2v-base-960h-int8-v1/part-03.bin"
+  },
+  {
+   "name": "part-04.bin",
+   "bytes": 15594270,
+   "sha256": "89c36481cf565a727e5ccf2fe57ba3d2c57828c625bbcb9bef0140e8aa221651",
+   "tag": "w2v-base-960h-int8-v1-a",
+   "cdn": "https://cdn.jsdelivr.net/gh/AriaYD/zangyu-asr-models@w2v-base-960h-int8-v1-a/w2v-base-960h-int8-v1/part-04.bin"
+  }
+ ]
+}
